@@ -2,7 +2,7 @@ package orestes.bloomfilter;
 
 /**
  * Created on 24.11.17.
- *
+ *//kmkk
  * @author Konstantin Simon Maria Möllers
  */
 public interface ExpirationMapAware<T> {
